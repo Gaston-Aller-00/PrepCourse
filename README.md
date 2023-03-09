@@ -1,2 +1,1 @@
-# PrepCourse
-Repo prueba
+Este proyecto es una prueba de como crear un repo y clonarlo desde github en mi pc.
